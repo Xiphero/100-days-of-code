@@ -2,8 +2,8 @@
 
 ### Day 0: January 30, 2017 
 
-**Today's Progress**: Finished FreeCodeCamp Tribute Page. Signed up for 100 days of code. Need to remember to sign up for the Chingu Cohorts once I've learned enough to actually contribute.
+**Today's Progress**: Finished FreeCodeCamp Tribute Page. Signed up for 100 days of code. Refreshed jQuery knowledge on FCC as I was uselessly rusty on it.
 
-**Thoughts:** I started out mostly trying to figure out the new bootstrap documentation vs what the example gave me. I feel I could have been more creative with the page or more efficient. I'll ask about it in the gitter chat.
+**Thoughts:** I started out mostly trying to figure out the new bootstrap documentation vs what the example gave me. I feel I could have been more creative with the page or more efficient. I'll ask about it in the gitter chat.  Need to remember to sign up for the Chingu Cohorts once I've learned enough to actually contribute.
 
 **Link to work:** [Ben Franklin Tribute Page](https://codepen.io/Xiphero/pen/VyjzbB)
