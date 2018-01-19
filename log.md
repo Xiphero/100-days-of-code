@@ -10,6 +10,6 @@
 
 ### Day 1, January 18, 2018
 
-**Today's Progress**: Finished FreeCodeCamp Javascript Tutorials. 
+**Today's Progress**: Almost Finished FreeCodeCamp Javascript Tutorials. Completed about 70 excercises in the category before burning out. Will likely have to review the last 5 or so. 
 
 **Thoughts:** I really feel like I could be doing more, but I'm managing to pull my attention to where it neads to be more often than I was previously, so I'm glad to be making progress on that front.
