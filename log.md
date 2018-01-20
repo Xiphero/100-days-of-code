@@ -21,6 +21,6 @@
 
 **Today's Progress:** Finished the Basic Javascript tutorials on FreeCodeCamp.
 
-**Thoughts:**  The five or so trials before the last dozen-ish were fairly difficult to complete with my inexperience at the time, but I was at least able to come close to a proper answer before needing assistance. Will redo the exercises later on to complete them with only my newfound knowledge.
+**Thoughts:**  The five or so trials before the last dozen-ish were fairly difficult to complete with my inexperience at the time, but I was at least able to come close to a proper answer before needing assistance. Will redo the exercises later on to complete them with only my newfound knowledge. Somewhat dissapointed in myself. I feel as if I definitely could have accomplished more, but not too upset. Rather proud at myself for how much I accomplished yesterday, so perhaps I tricked myself into resting on my laurels.
 
 **Link to work:** [Only Another Tweet Again](https://twitter.com/DuboueRafael/status/954622615460745216)
