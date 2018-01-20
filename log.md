@@ -10,6 +10,17 @@
 
 ### Day 1, January 18, 2018
 
-**Today's Progress**: Almost Finished FreeCodeCamp Javascript Tutorials. Completed about 70 excercises in the category before burning out. Will likely have to review the last 5 or so. 
+**Today's Progress:** Almost Finished FreeCodeCamp Javascript Tutorials. Completed about 70 excercises in the category before burning out. Will likely have to review the last 5 or so. 
 
 **Thoughts:** I really feel like I could be doing more, but I'm managing to pull my attention to where it neads to be more often than I was previously, so I'm glad to be making progress on that front.
+
+
+**Link to work:** [Only a Tweet, Sorry](https://twitter.com/DuboueRafael/status/954161926329765889)
+
+### Day 2, January 19, 2018
+
+**Today's Progress:** Finished the Basic Javascript tutorials on FreeCodeCamp.
+
+**Thoughts:**  The five or so trials before the last dozen-ish were fairly difficult to complete with my inexperience at the time, but I was at least able to come close to a proper answer before needing assistance. Will redo the exercises later on to complete them with only my newfound knowledge.
+
+**Link to work:** [Only Another Tweet Again](https://twitter.com/DuboueRafael/status/954622615460745216)
